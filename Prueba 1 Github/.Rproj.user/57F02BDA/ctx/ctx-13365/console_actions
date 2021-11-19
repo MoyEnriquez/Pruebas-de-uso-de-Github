@@ -1,0 +1,40 @@
+{
+    "type": [
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2
+    ],
+    "data": [
+        "\nR version 4.1.2 (2021-11-01) -- \"Bird Hippie\"\nCopyright (C) 2021 The R Foundation for Statistical Computing\nPlatform: x86_64-apple-darwin17.0 (64-bit)\n\nR is free software and comes with ABSOLUTELY NO WARRANTY.\nYou are welcome to redistribute it under certain conditions.\nType 'license()' or 'licence()' for distribution details.\n\n  Natural language support but running in an English locale\n\nR is a collaborative project with many contributors.\nType 'contributors()' for more information and\n'citation()' on how to cite R or R packages in publications.\n\n",
+        "Type 'demo()' for some demos, 'help()' for on-line help, or\n'help.start()' for an HTML browser interface to help.\nType 'q()' to quit R.\n\n",
+        "\nWarning message:\nFile monitoring failed for project at \"~/Desktop/github/R-Estadistica-Inferencial/Prueba 1 Github\"\nError 2 (No such file or directory)\nFeatures disabled: R source file indexing, Diagnostics\n",
+        "Error in abs_path(input) : \n  The file '/Users/Moy/Desktop/github/R-Estadistica-Inferencial/Prueba 1 Github/Prueba 2 Github.Rmd' does not exist.\n",
+        "Error in file(con, \"r\") : cannot open the connection\n",
+        "In addition: ",
+        "Warning message:\n",
+        "In file(con, \"r\") :",
+        "\n ",
+        " cannot open file '/Users/Moy/Desktop/github/R-Estadistica-Inferencial/Prueba 1 Github/Prueba 2 Github.Rmd': No such file or directory\n",
+        "Error in file(con, \"r\") : cannot open the connection\n",
+        "In addition: ",
+        "Warning message:\n",
+        "In file(con, \"r\") :",
+        "\n ",
+        " cannot open file '/Users/Moy/Desktop/github/R-Estadistica-Inferencial/Prueba 1 Github/Prueba 2 Github.Rmd': No such file or directory\n",
+        "\nRestarting R session...\n\n"
+    ]
+}
